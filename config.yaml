@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: Hugo Ivy
+title: 游山记
 theme: "hugo-ivy"
 googleAnalytics: ""
 disqusShortname: ""
@@ -30,8 +30,8 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "A Hugo theme ported from the static site generator Ivy."
-  footer: "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  description: "对饮成三人"
+  footer: "&copy; [tomyhometown](https://tomyhometown-blog.netlify.app/) 2017 | [Github](https://github.com/tomyhometown)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
